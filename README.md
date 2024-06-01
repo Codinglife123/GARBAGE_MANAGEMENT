@@ -1,4 +1,5 @@
-# tech_for_india
+#Garbage Management
+tech_for_india  
 HOME
 :- It's the official home page of the project.
 ABOUT US
